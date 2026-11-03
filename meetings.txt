@@ -1,0 +1,10 @@
+date/time       location            area of focus
+
+3/28 @4pm       Discord             Implementing Yard.java and testing the implementation so far
+3/29 @5pm       Discord             Discussed the organization of the code and division of responsibilities between the classes
+
+4/4 @3pm        Discord             Discussing the plan for finishing part ii, reviewed the handler and handler tests
+4/6 @4pm        Team Room(GCCIS)    Implemented BBBGProxy
+
+4/12 @3pm       Discord             Reviewed the independent work we Discord
+4/13 @4pm       Team Room(GCCIS)    Debugging the cyberPup's smart dig and the playerYard on the website

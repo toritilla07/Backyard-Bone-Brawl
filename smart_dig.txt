@@ -1,0 +1,11 @@
+when the cyberpup finds a toy part it will dig around the toy until it finds a second toy part.
+
+    if it digs next to the partially found toy part and finds another part it will keep
+    digging in that line until it either finishes diggint he whole toy or it misses(doesn't dig up another toy part).
+
+    if it misses it will go back to the first toy part found and dig for another toy part.
+
+
+
+If time: add a feature so that the cyberpup is digging in more spread out areas instead of digging in the same corner
+of the yard looking for toys.
